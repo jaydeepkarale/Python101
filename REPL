@@ -1,0 +1,5 @@
+Short for READ EVALUATE PRINT LOOP.
+
+It's simply the Python environment which starts when you fire the `python` command in the powershell.
+
+The Zen of python can be accessed using `import this` in the REPL
